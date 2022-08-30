@@ -1,0 +1,15 @@
+C:\Users\Лариса\Desktop\ExampС#\ex5\obj\Debug\net6.0\ex5.csproj.AssemblyReference.cache
+C:\Users\Лариса\Desktop\ExampС#\ex5\obj\Debug\net6.0\ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лариса\Desktop\ExampС#\ex5\obj\Debug\net6.0\ex5.AssemblyInfoInputs.cache
+C:\Users\Лариса\Desktop\ExampС#\ex5\obj\Debug\net6.0\ex5.AssemblyInfo.cs
+C:\Users\Лариса\Desktop\ExampС#\ex5\obj\Debug\net6.0\ex5.csproj.CoreCompileInputs.cache
+C:\Users\Лариса\Desktop\ExampС#\ex5\bin\Debug\net6.0\ex5.exe
+C:\Users\Лариса\Desktop\ExampС#\ex5\bin\Debug\net6.0\ex5.deps.json
+C:\Users\Лариса\Desktop\ExampС#\ex5\bin\Debug\net6.0\ex5.runtimeconfig.json
+C:\Users\Лариса\Desktop\ExampС#\ex5\bin\Debug\net6.0\ex5.dll
+C:\Users\Лариса\Desktop\ExampС#\ex5\bin\Debug\net6.0\ex5.pdb
+C:\Users\Лариса\Desktop\ExampС#\ex5\obj\Debug\net6.0\ex5.dll
+C:\Users\Лариса\Desktop\ExampС#\ex5\obj\Debug\net6.0\refint\ex5.dll
+C:\Users\Лариса\Desktop\ExampС#\ex5\obj\Debug\net6.0\ex5.pdb
+C:\Users\Лариса\Desktop\ExampС#\ex5\obj\Debug\net6.0\ex5.genruntimeconfig.cache
+C:\Users\Лариса\Desktop\ExampС#\ex5\obj\Debug\net6.0\ref\ex5.dll
